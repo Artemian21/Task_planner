@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\BLL\BLL\obj\Debug\net8.0\ref\BLL.dll

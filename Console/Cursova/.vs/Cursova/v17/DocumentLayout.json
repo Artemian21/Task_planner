@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Console\\Cursova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B5AE3D-6468-41AD-A10D-5EAF50381E66}|Cursova.csproj|c:\\users\\user\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\console\\cursova\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B5AE3D-6468-41AD-A10D-5EAF50381E66}|Cursova.csproj|solutionrelative:consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B5AE3D-6468-41AD-A10D-5EAF50381E66}|Cursova.csproj|c:\\users\\user\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\console\\cursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B5AE3D-6468-41AD-A10D-5EAF50381E66}|Cursova.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Console\\Cursova\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Console\\Cursova\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:58:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Console\\Cursova\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0440\u043E\u0431\u043E\u0442\u0430\\Console\\Cursova\\ConsoleMenu.cs",
+              "RelativeToolTip": "ConsoleMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:58:50.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

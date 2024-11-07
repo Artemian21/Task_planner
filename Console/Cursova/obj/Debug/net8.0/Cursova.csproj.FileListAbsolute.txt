@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.exe
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.deps.json
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.runtimeconfig.json
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.pdb
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.AssemblyInfo.cs
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\refint\Cursova.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.pdb
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.genruntimeconfig.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\ref\Cursova.dll
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\obj\Debug\net8.0\Cursova.csproj.Up2Date
+C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\System.Text.Json.dll

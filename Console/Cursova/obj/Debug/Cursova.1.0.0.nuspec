@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cursova</id>
+    <version>1.0.0</version>
+    <authors>Cursova</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.runtimeconfig.json" target="lib\net8.0\Cursova.runtimeconfig.json" />
+    <file src="C:\Users\User\Desktop\Навчання\2 курс\ООП\Курсова робота\Console\Cursova\bin\Debug\net8.0\Cursova.dll" target="lib\net8.0\Cursova.dll" />
+  </files>
+</package>
